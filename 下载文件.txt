@@ -1,0 +1,4 @@
+git init
+git branch -M main
+git remote add origin https://github.com/makima-reze/git_test.git
+git pull origin main
